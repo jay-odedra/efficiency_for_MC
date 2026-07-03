@@ -1,0 +1,147 @@
+
+==============================================
+ B0 → J/ψ(e⁺e⁻) K*0
+==============================================
+Input file                : B0_JpsiEE_Kstar_gen_FONLL.root
+Raw denominator           : 16829
+Raw passing               : 276
+Raw efficiency            : 0.016400
+----------------------------------------------
+Weighted denominator Σw   : 16785.808077
+Weighted passing Σw       : 224.058717
+Weighted efficiency       : 0.013348
+----------------------------------------------
+Efficiency ratio w/raw    : 0.813896
+Transfer factor <w>       : 0.997433
+----------------------------------------------
+MiniAOD raw (pass GF)     : 947766.000000
+MiniAOD FONLL (pass GF)   : 771382.789140
+MiniAOD FONLL inclusive   : 57641370.208500
+==============================================
+==============================================
+
+==============================================
+ B0 → ψ(2S)(e⁺e⁻) K*0
+==============================================
+Input file                : B0_psi2SEE_Kstar_gen_FONLL.root
+Raw denominator           : 17007
+Raw passing               : 357
+Raw efficiency            : 0.020991
+----------------------------------------------
+Weighted denominator Σw   : 17009.356028
+Weighted passing Σw       : 289.482781
+Weighted efficiency       : 0.017019
+----------------------------------------------
+Efficiency ratio w/raw    : 0.810764
+Transfer factor <w>       : 1.000139
+----------------------------------------------
+MiniAOD raw (pass GF)     : 98229.000000
+MiniAOD FONLL (pass GF)   : 79640.519290
+MiniAOD FONLL inclusive   : 4680145.751475
+==============================================
+==============================================
+
+==============================================
+ Bu → J/ψ(e⁺e⁻) π
+==============================================
+Input file                : buto_jpsi_pi_Gen_FONLL.root
+Raw denominator           : 16937
+Raw passing               : 498
+Raw efficiency            : 0.029403
+----------------------------------------------
+Weighted denominator Σw   : 16957.866499
+Weighted passing Σw       : 401.102748
+Weighted efficiency       : 0.023653
+----------------------------------------------
+Efficiency ratio w/raw    : 0.804436
+Transfer factor <w>       : 1.001232
+----------------------------------------------
+MiniAOD raw (pass GF)     : 1820486.000000
+MiniAOD FONLL (pass GF)   : 1464464.720052
+MiniAOD FONLL inclusive   : 61991081.428117
+==============================================
+==============================================
+
+==============================================
+ Bu → χc1 → J/ψ(e⁺e⁻)
+==============================================
+Input file                : butokpluschic1_chic1tojpsi_jpsitoee_Gen_FONLL.root
+Raw denominator           : 16717
+Raw passing               : 353
+Raw efficiency            : 0.021116
+----------------------------------------------
+Weighted denominator Σw   : 16753.575411
+Weighted passing Σw       : 284.003642
+Weighted efficiency       : 0.016952
+----------------------------------------------
+Efficiency ratio w/raw    : 0.802786
+Transfer factor <w>       : 1.002188
+----------------------------------------------
+MiniAOD raw (pass GF)     : 1996426.000000
+MiniAOD FONLL (pass GF)   : 1602703.773514
+MiniAOD FONLL inclusive   : 94751483.123772
+==============================================
+==============================================
+
+==============================================
+ Bu → K* J/ψ(e⁺e⁻), K*→K0π
+==============================================
+Input file                : BuToKstarJPsi_KstarToK0Pi_JPsiToEE_K0ToPiPi_Gen_FONLL.root
+Raw denominator           : 16719
+Raw passing               : 274
+Raw efficiency            : 0.016389
+----------------------------------------------
+Weighted denominator Σw   : 16729.896397
+Weighted passing Σw       : 221.804606
+Weighted efficiency       : 0.013258
+----------------------------------------------
+Efficiency ratio w/raw    : 0.808979
+Transfer factor <w>       : 1.000652
+----------------------------------------------
+MiniAOD raw (pass GF)     : 940945.000000
+MiniAOD FONLL (pass GF)   : 761204.387387
+MiniAOD FONLL inclusive   : 57452234.910973
+==============================================
+==============================================
+
+==============================================
+ Bu → K* ψ(2S)(e⁺e⁻)
+==============================================
+Input file                : BuToKstarPsi2s_KstarToK0Pi_Psi2sToEE_K0ToPiP_Gen_FONLL.root
+Raw denominator           : 17023
+Raw passing               : 388
+Raw efficiency            : 0.022793
+----------------------------------------------
+Weighted denominator Σw   : 17018.591448
+Weighted passing Σw       : 314.463272
+Weighted efficiency       : 0.018478
+----------------------------------------------
+Efficiency ratio w/raw    : 0.810682
+Transfer factor <w>       : 0.999741
+----------------------------------------------
+MiniAOD raw (pass GF)     : 101412.000000
+MiniAOD FONLL (pass GF)   : 82212.913114
+MiniAOD FONLL inclusive   : 4448168.546246
+==============================================
+==============================================
+
+==============================================
+ Bu → J/ψ(e⁺e⁻) K*+(→ K⁺ π⁰)
+==============================================
+Input file                : BuToKstarJPsi_JPsiToEE_KstarToKplusPi0_gen_FONLL.root
+Raw denominator           : 13434
+Raw passing               : 201
+Raw efficiency            : 0.014962
+----------------------------------------------
+Weighted denominator Σw   : 13442.481676
+Weighted passing Σw       : 163.737979
+Weighted efficiency       : 0.012181
+----------------------------------------------
+Efficiency ratio w/raw    : 0.814103
+Transfer factor <w>       : 1.000631
+----------------------------------------------
+MiniAOD raw (pass GF)     : 1938219.000000
+MiniAOD FONLL (pass GF)   : 1577909.556740
+MiniAOD FONLL inclusive   : 129624245.733083
+==============================================
+==============================================
